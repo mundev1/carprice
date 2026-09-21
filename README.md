@@ -135,9 +135,7 @@ The project uses multiple train-test splits and selects the best-performing mode
 * Create a web application for real-time predictions.
 
 ## Author
-Naveen Rathoue
-
-Naven
+Mun Dev Anuj Tomar
 
 B.Tech Artificial Intelligence & Machine Learning
 
